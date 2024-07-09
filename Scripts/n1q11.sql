@@ -1,0 +1,2 @@
+DELETE FROM emprunts
+WHERE dateEmprunt < DATE_SUB(CURDATE(), INTERVAL 1 YEAR);

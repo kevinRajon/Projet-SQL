@@ -1,0 +1,1 @@
+select avg(l.nombre_demprunt) as nombre_demprunt_moyen from livres l 

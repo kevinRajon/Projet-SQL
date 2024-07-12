@@ -4,4 +4,4 @@ Manipulation d'une base de donnée plus complexe avec DBeaver
  - Niveau 2 : Utilisation des principales fonctions de SQL, GROUP BY, AVG(), COUNT(), MAX(), NULL, ALTER TABLE
  - Niveau 3 : Utilisation de requêtes imbriquées
 
-Les scripts utilisé sont tous repertoriés dans le dossier Scripts 
+Les scripts utilisés sont tous repertoriés dans le dossier Scripts 
